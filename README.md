@@ -14,3 +14,7 @@ NOTE:Python programing style will tend to be close to c++ and java style
 05-03-18:
 
 02-Monk-and-Welcome-problem: print in the same line for python3
+
+09-03-18:
+
+01-Monk-and-Rotation: fast io for java and easy 1 line printing in python
