@@ -28,3 +28,11 @@ NOTE:Python programing style will tend to be close to c++ and java style
 01-EEDC-lab: MUST TRY, important to learn array count trick 
 
 02-Max-of-k-size-subarrays: Standard priority queue problem. Implementation of hashmap and priorityqueue in java. one line code for priorityQueue in python
+
+15-03-13:
+
+01-Biased-chandan: tricky ques 
+
+02-Modified-Sequence: tricky ques
+
+03-Monk-and-power-of-time: syntax for queue usage in java
