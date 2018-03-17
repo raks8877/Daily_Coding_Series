@@ -19,20 +19,24 @@ NOTE:Python programing style will tend to be close to c++ and java style
 
 01-Monk-and-Rotation: fast io for java and easy 1 line printing in python
 
-13-03-13:
+13-03-18:
 
 02-Monk-and-Lucky-Minimum: how to take max int in all 3 language
 
-14-03-13:
+14-03-18:
 
 01-EEDC-lab: MUST TRY, important to learn array count trick 
 
 02-Max-of-k-size-subarrays: Standard priority queue problem. Implementation of hashmap and priorityqueue in java. one line code for priorityQueue in python
 
-15-03-13:
+15-03-18:
 
 01-Biased-chandan: tricky ques 
 
 02-Modified-Sequence: tricky ques
 
 03-Monk-and-power-of-time: syntax for queue usage in java
+
+17-03-18:
+
+01-Dedication-level-infinity: how to sort int and string arrays based on int
