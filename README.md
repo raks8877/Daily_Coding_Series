@@ -40,3 +40,7 @@ NOTE:Python programing style will tend to be close to c++ and java style
 17-03-18:
 
 01-Dedication-level-infinity: how to sort int and string arrays based on int
+
+25-03-18:
+
+01-Xsquare-and-two-Arrays: nice dp for beginners
