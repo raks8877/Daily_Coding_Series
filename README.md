@@ -44,3 +44,7 @@ NOTE:Python programing style will tend to be close to c++ and java style
 25-03-18:
 
 01-Xsquare-and-two-Arrays: nice dp for beginners
+
+27-03-18:
+
+01-Signal-Range: Classical stack problem(stock span)
