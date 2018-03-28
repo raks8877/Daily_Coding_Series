@@ -48,3 +48,9 @@ NOTE:Python programing style will tend to be close to c++ and java style
 27-03-18:
 
 01-Signal-Range: Classical stack problem(stock span)
+
+28-03-18:
+
+01-Wacky-workouts: fibo series in log(n)
+
+02-Basic-of-queue: implementation of queue in java
