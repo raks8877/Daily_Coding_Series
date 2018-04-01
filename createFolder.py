@@ -1,13 +1,16 @@
-import os, errno, datetime
+import os 
+from month import *
 
-now = datetime.datetime.now()
-
-strData = now.strftime("%d-%m-%y")
+strData = getDate()
+monthName = getMonth() + "-" + getYear()
 
 try:
-    os.makedirs(strData)
-    os.makedirs(strData+"/c++")
-    os.makedirs(strData+"/java")
-    os.makedirs(strData+"/python")
+    os.makedirs(monthName)
+    os.makedirs(monthName + "/" + strData)
+    os.makedirs(monthName + "/" + strData + "/c++")
+    os.makedirs(monthName + "/" + strData + "/java")
+    os.makedirs(monthName + "/" + strData + "/python")
 except OSError as e:
     print(e)
+
+

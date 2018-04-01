@@ -54,3 +54,7 @@ NOTE:Python programing style will tend to be close to c++ and java style
 01-Wacky-workouts: fibo series in log(n)
 
 02-Basic-of-queue: implementation of queue in java
+
+01-04-18:
+
+01-Dhoni-and-holidays: nice basic dp
