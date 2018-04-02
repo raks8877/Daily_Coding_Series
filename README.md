@@ -58,3 +58,7 @@ NOTE:Python programing style will tend to be close to c++ and java style
 01-04-18:
 
 01-Dhoni-and-holidays: nice basic dp
+
+02-04-18:
+
+02-Coin-Toss: Nice matrix exponential prob

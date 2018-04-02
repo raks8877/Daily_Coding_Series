@@ -5,7 +5,10 @@ strData = getDate()
 monthName = getMonth() + "-" + getYear()
 
 try:
-    os.makedirs(monthName)
+    try:
+        os.makedirs(monthName)
+    except Exception as e1:
+        pass
     os.makedirs(monthName + "/" + strData)
     os.makedirs(monthName + "/" + strData + "/c++")
     os.makedirs(monthName + "/" + strData + "/java")
