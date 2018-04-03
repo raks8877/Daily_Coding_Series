@@ -1,3 +1,9 @@
+'''
+python createFolder.py 
+
+it creates different folder according to date
+
+'''
 import os 
 from month import *
 

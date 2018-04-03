@@ -1,3 +1,12 @@
+'''
+Usage:
+python edit.py c++/java/python 01
+
+01 indicates program number as it is being created
+serially like 01-, 02- etc
+'''
+
+
 import os, sys
 from month import *
 

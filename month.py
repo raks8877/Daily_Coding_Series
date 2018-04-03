@@ -1,3 +1,7 @@
+'''
+This is a utility function
+'''
+
 import datetime
 
 now = datetime.datetime.now()

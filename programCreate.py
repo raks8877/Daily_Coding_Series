@@ -1,3 +1,16 @@
+'''
+Usage:
+python programCreate.py "01-prog1"
+
+"01-prog1"
+01 indicates serial numbering method used.
+it increases so next will be 02,03 etc.
+it is also used by edit prog to locate the file.
+
+prog1 indicates question name
+
+'''
+
 import os, sys
 from month import *
 
