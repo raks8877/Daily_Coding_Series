@@ -1,28 +1,26 @@
-#previous code was giving tle, this code is finally accepted
 MOD = int(1e9)+7
 N = 2
 K = 2
 F = [[1]*(N+1) for i in range(K+1)]
 M = [[1]*(N+1) for i in range(K+1)]
+F[0][0] = 1
+F[0][1] = 1
+F[1][0] = 1
+F[1][1] = 0
 
-
+M[0][0] = 1
+M[0][1] = 1
+M[1][0] = 1
+M[1][1] = 0
 
 def fibo(n):
-    F[0][0] = 1
-    F[0][1] = 1
-    F[1][0] = 1
-    F[1][1] = 0
-    if(n == 0):
-        return 0
+    
+    if(n == 1 or n == 0):
+        return 1
     power(n)
     return F[0][0]
 
 def power(n):
-    M[0][0] = 1
-    M[0][1] = 1
-    M[1][0] = 1
-    M[1][1] = 0
-
     if( n == 1 or n == 0):
         return
     power(n//2)
@@ -42,6 +40,5 @@ def multiply(F,M):
     F[1][0] = c
     F[1][1] = d
 
-for _ in range( int(input()) ):
-    n = int(input())
-    print(fibo(n+1))
+n = int(input())
+print(fibo(n-1))
