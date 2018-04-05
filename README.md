@@ -66,3 +66,7 @@ NOTE:Python programing style will tend to be close to c++ and java style
 04-04-18:
 
 03-Tower-of-Hanoi: Sort 2d matrix 
+
+05-04-18:
+
+01-Mystery: finding number of divisors + seive + vector use in java
