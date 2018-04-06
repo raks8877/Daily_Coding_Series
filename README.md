@@ -70,3 +70,7 @@ NOTE:Python programing style will tend to be close to c++ and java style
 05-04-18:
 
 01-Mystery: finding number of divisors + seive + vector use in java
+
+06-04-18:
+
+03-Love-Triangle: take input till EOF
