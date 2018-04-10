@@ -74,3 +74,7 @@ NOTE:Python programing style will tend to be close to c++ and java style
 06-04-18:
 
 03-Love-Triangle: take input till EOF
+
+10-04-18:
+
+03-Odd-Even-Subarrays: classic DP

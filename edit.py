@@ -28,7 +28,10 @@ elif(language == "java"):
 
 elif(language == "python"):
     fileList = os.listdir(monthName + "/" + strData + "/python/")
-
+    
+if fileList is None: 
+    print("Error in language")
+    exit(0)
 
 for item in fileList:
     num = item.split('-')[0]
