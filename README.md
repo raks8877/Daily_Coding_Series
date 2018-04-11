@@ -78,3 +78,7 @@ NOTE:Python programing style will tend to be close to c++ and java style
 10-04-18:
 
 03-Odd-Even-Subarrays: classic DP
+
+11-04-18:
+
+02-Prime-Numbers-Again: nice dp problem
