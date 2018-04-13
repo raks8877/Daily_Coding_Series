@@ -82,3 +82,9 @@ NOTE:Python programing style will tend to be close to c++ and java style
 11-04-18:
 
 02-Prime-Numbers-Again: nice dp problem
+
+13-04-18:
+
+01-BooBoo-and-Upsolving: Nice Binary search problem
+
+02-Super-Two-Letter-String: Nice dp problem
