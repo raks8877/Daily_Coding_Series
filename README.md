@@ -88,3 +88,7 @@ NOTE:Python programing style will tend to be close to c++ and java style
 01-BooBoo-and-Upsolving: Nice Binary search problem
 
 02-Super-Two-Letter-String: Nice dp problem
+
+15-04-18:
+
+01-Win-The-Game: print double value with preision
