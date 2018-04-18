@@ -92,3 +92,9 @@ NOTE:Python programing style will tend to be close to c++ and java style
 15-04-18:
 
 01-Win-The-Game: print double value with preision
+
+18-04-18:
+
+03-Monk-and-search: nice binary search
+
+04-The-Old-Monk: nice binary search
