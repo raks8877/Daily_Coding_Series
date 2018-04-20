@@ -98,3 +98,7 @@ NOTE:Python programing style will tend to be close to c++ and java style
 03-Monk-and-search: nice binary search
 
 04-The-Old-Monk: nice binary search
+
+20-4-18:
+
+02-Simple-Game: binary search lower and upper bound
