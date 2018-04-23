@@ -102,3 +102,7 @@ NOTE:Python programing style will tend to be close to c++ and java style
 20-4-18:
 
 02-Simple-Game: binary search lower and upper bound
+
+23-04-18:
+
+03-Sherlock-and-numbers: nice problem
