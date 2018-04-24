@@ -106,3 +106,7 @@ NOTE:Python programing style will tend to be close to c++ and java style
 23-04-18:
 
 03-Sherlock-and-numbers: nice problem
+
+24-04-18:
+
+03-Solitary-string: nice string easy problem
