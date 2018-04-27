@@ -110,3 +110,7 @@ NOTE:Python programing style will tend to be close to c++ and java style
 24-04-18:
 
 03-Solitary-string: nice string easy problem
+
+27-04-18:
+
+02-Little-Shino-and-pairs: nice stack problem(modified of stock span)
