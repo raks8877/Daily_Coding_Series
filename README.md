@@ -114,3 +114,8 @@ NOTE:Python programing style will tend to be close to c++ and java style
 27-04-18:
 
 02-Little-Shino-and-pairs: nice stack problem(modified of stock span)
+
+01-05-18:
+
+01-Range-minimum-query: basic segment tree
+
