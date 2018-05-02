@@ -119,3 +119,6 @@ NOTE:Python programing style will tend to be close to c++ and java style
 
 01-Range-minimum-query: basic segment tree
 
+02-05-18:
+
+02-Zeros-and-ones: nice segment tree question
