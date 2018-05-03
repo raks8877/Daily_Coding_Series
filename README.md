@@ -122,3 +122,7 @@ NOTE:Python programing style will tend to be close to c++ and java style
 02-05-18:
 
 02-Zeros-and-ones: nice segment tree question
+
+03-05-18:
+
+01-Fibonacci-with-gcd: nice segment tree with fibo series with matrix expo method
