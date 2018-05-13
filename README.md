@@ -127,6 +127,10 @@ NOTE:Python programing style will tend to be close to c++ and java style
 
 01-Fibonacci-with-gcd: nice segment tree with fibo series with matrix expo method
 
-04-05-18L
+04-05-18:
 
 02-Level-order: basic bfs
+
+13-05-18:
+
+02-Unreachable-nodes: basic dfs
