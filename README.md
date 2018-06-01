@@ -138,3 +138,7 @@ NOTE:Python programing style will tend to be close to c++ and java style
 28-05-18:
 
 01-Dhoom-4: nice bfs
+
+01-06-18:
+
+01-Compare-String: solution with binary search and without binary search
