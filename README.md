@@ -142,3 +142,7 @@ NOTE:Python programing style will tend to be close to c++ and java style
 01-06-18:
 
 01-Compare-String: solution with binary search and without binary search
+
+12-06-18:
+
+01-Easy-multiple: basic summation formula
