@@ -146,3 +146,7 @@ NOTE:Python programing style will tend to be close to c++ and java style
 12-06-18:
 
 01-Easy-multiple: basic summation formula
+
+14-06-18:
+
+01-Game-of-strength: nice math + sorting ques
