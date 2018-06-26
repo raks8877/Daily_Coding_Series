@@ -151,7 +151,10 @@ NOTE:Python programing style will tend to be close to c++ and java style
 
 01-Game-of-strength: nice math + sorting ques
 
-25:06-18:
+25-06-18:
 
-01-Chandu-and-his-girlfriend: easy for c++, nice logic for java, 1 line for python
+01-Chandu-and-his-girlfriend: merge func for c++ and java, 1 line for python
 
+26-06-18:
+
+01-Equal-Array: basic dp
