@@ -158,3 +158,9 @@ NOTE:Python programing style will tend to be close to c++ and java style
 26-06-18:
 
 01-Equal-Array: basic dp
+
+------------------------------------------------------------------------------------
+2020:
+
+08-03-20:
+	01-Palindrome-count-1: Brute force N^3 solution, DP N^2 solution(my solution), N log N solution also exist. Think how ;)
